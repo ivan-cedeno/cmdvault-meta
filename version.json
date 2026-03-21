@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "Ivan: TESTING v.1.0.1.New icon, sync fix, history auto-expand, new command icons (proc & contacts)",
+  "version": "1.0.1",
+  "changelog": "Local backup now included user profiles and team repos",
   "download_url": "https://teradata-pe.atlassian.net/wiki/spaces/~62d6c8bc5ef3d0c685495d47/pages/1331726704/CmdVault+Command+Utility+for+Product+Support+Engineers.#Downloads",
   "date": "2026-03-17",
   "enabled": true,
